@@ -1,3 +1,14 @@
 .App {
     text-align: center;
   }
+  body{
+    background-color:rgb(158, 236, 236);
+  }
+  .AppContainer{
+    width:90%;
+    height:90vh;
+    margin:30px auto;
+    padding:30px 20px;
+    background-color:#fff;
+    border:2px solid black;
+  }
